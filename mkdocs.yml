@@ -4,3 +4,6 @@ theme:
 nav:
   - Instalação: index.md
   - Execução: exe.md
+markdown_extensions:
+  - toc:
+      permalink: true
