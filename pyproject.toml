@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ponderada-terraform"
+version = "0.1.0"
+description = ""
+authors = ["FelipeSantosInteli <felipe.santos@sou.inteli.edu.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.6.0"
+mkdocs-material = "^9.5.26"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

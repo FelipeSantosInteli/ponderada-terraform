@@ -1,0 +1,6 @@
+site_name: "Felip - Ponderada Terraform"
+theme:
+  name: "material"
+nav:
+  - Instalação: index.md
+  - Execução: exe.md
